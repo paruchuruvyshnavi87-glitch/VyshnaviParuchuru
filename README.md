@@ -120,7 +120,7 @@ A real-time messaging application.
 </a>
 </p>
 <p>
-<a href="https://github.com/paruchuruvyshnavi87-glitch">
+<a href="https://github.com/paruchuruvyshnavi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="mailto:paruchuruvyshnavi87@gmail.com">
